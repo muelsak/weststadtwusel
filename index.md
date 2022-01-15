@@ -5,6 +5,7 @@ Das Weststadtwusel ist ein angeleiteter Spieletreff für Kinder im Vorschulalter
 ## Details
 * Termin: Montags 16-17 Uhr. Es findet *nicht* statt in den BW-Schulferien. Weiterhin können einzelne Termine ausfallen. Bitte immer die aktuelle Terminliste beachten.
 * Ort: Haus der Christuskirche, großer Saal im 2. OG (Zähringerstraße 26, 69115 Heidelberg). Achtung: Die Eingangstür darf von außen und innen nur mit den Türöffnern bedient werden und nicht von Hand aufgemacht werden. Ab 16:30 Uhr muss man von innen reingelassen werden.
+* Turnschläppchen oder Anti-Rutsch-Socken sind Pflicht, da der Boden sehr rutschig ist.
 * Im Anschluss an den offiziellen Teil gibt es meistens ein zwangloses get-together mit mitgebrachten Snacks bis spätestens 18 Uhr für alle Interessierten.
 * Die aktuelle Gruppe setzt sich hauptsächlich aus 2- und 3-jährigen Wuseln zusammen. Dieser Altersbereich ist für teilnehmende Kinder empfohlen.
 * Kinder müssen zusammen mit einer Betreuungsperson teilnehmen und obliegen vollständig deren Verantwortung.
@@ -22,9 +23,10 @@ Zusammenfassung:
   * Keine Covid-Symptomatik, d.h. keine Atemnot, neu auftretender Husten, Fieber, Geruchs- oder Geschmacksverlust.
   * Maximal 10 Kinder, maximal 20 Erwachsene (Voranmeldung notwendig).
 * Regeln vor Ort:
-  * Pflicht zum Tragen medizinischer Masken für Personen ab 6 Jahren.
+  * Pflicht zum Tragen einer medizinischen Maske für Personen ab 6 Jahren.
   * Mindestabstand von 1,5 Metern, sofern die Aktivität es erlaubt.
   * Hände waschen vor und nach der Veranstaltung (Sanitäranlagen vor Ort).
+  * Lüften vor, während und nach der Veranstaltung (bitte bei Auswahl der Kleidung daran denken).
 * Kontaktnachverfolgung: Kontaktdaten (Name und E-Mail/Telefonnummer) der teilnehmenden Personen müssen bei Anmeldung übermittelt werden.
 
 ## Nächste Termine
