@@ -1,4 +1,4 @@
-# Hygienekonzept für den Spieletreff Weststadtwusel
+# Hygieneschutzkonzept für den Spieletreff Weststadtwusel
 Grundlage ist die Corona-Verordnung des Landes Baden-Württemberg in ihrer jeweils aktuellen Fassung sowie die allgemein geltenden Hygieneempfehlungen.
 
 ## Art der Veranstaltung
