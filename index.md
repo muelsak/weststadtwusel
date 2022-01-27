@@ -31,7 +31,7 @@ Zusammenfassung:
 
 ## Nächste Termine
 * ~~31.01.2022~~ (fällt aus wegen Krankheit)
-* (07.02.2022, noch unklar)
+* ~~07.02.2022~~ (fällt aus, da Raum nicht verfügbar)
 * 14.02.2022
 * 21.02.2022
 * 28.02.2022
