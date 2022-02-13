@@ -30,9 +30,7 @@ Zusammenfassung:
 * Kontaktnachverfolgung: Kontaktdaten (Name und E-Mail/Telefonnummer) der teilnehmenden Personen müssen bei Anmeldung übermittelt werden.
 
 ## Nächste Termine
-* ~~31.01.2022~~ (fällt aus wegen Krankheit)
-* ~~07.02.2022~~ (fällt aus, da Raum nicht verfügbar)
-* 14.02.2022
+* ~~14.02.2022~~ (fällt aus wegen Krankheit)
 * 21.02.2022
 * 28.02.2022
 
