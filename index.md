@@ -30,9 +30,27 @@ Zusammenfassung:
 * Kontaktnachverfolgung: Kontaktdaten (Name und E-Mail/Telefonnummer) der teilnehmenden Personen müssen bei Anmeldung übermittelt werden.
 
 ## Nächste Termine
-* ~~14.02.2022~~ (fällt aus wegen Krankheit)
-* 21.02.2022
-* 28.02.2022
+* ~~07.03.2022~~ (fällt aus wegen Raumbelegung)
+* 14.03.2022
+* 21.03.2022
+* 28.03.2022
+* 04.04.2022 (findet in Kapelle statt)
+* 11.04.2022
+* ~~18.04.2022~~ (fällt aus wegen Ostermontag)
+* 25.04.2022
+* 02.05.2022 (findet in Kapelle statt)
+* ~~09.05.2022~~ (fällt aus wegen privatem Termin)
+* 16.05.2022
+* 23.05.2022
+* 30.05.2022
+* 06.06.2022 (fällt wahrscheinlich aus wegen Pfingstmontag)
+* 13.06.2022
+* 20.06.2022
+* 27.06.2022
+* 04.07.2022 (findet in Kapelle statt)
+* ~~11.04.2022~~ (fältt aus wegen privatem Termin)
+* 18.07.2022
+* 25.07.2022
 
 ## Wer leitet das Weststadtwusel?
 Die Gruppe wird angeleitet von mir, Samuel Kilian. Meine eigene Tochter ist drei Jahre alt und ebenfalls ein Wusel. Ich gründete den Spieletreff im Sommer 2021, nachdem ich erfolglos versuchte, einen Platz im Kinderturnen für meine Tochter zu finden. Ich wohne selbst in der Weststadt und bin mit meiner Tochter öfter auf dem Synagogenspielplatz anzutreffen. Ich arbeite als Statistiker an der Uniklinik, bin Hobby-Musiker und habe keine pädagogische Ausbildung absolviert.
