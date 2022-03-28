@@ -30,10 +30,7 @@ Zusammenfassung:
 * Kontaktnachverfolgung: Kontaktdaten (Name und E-Mail/Telefonnummer) der teilnehmenden Personen müssen bei Anmeldung übermittelt werden.
 
 ## Nächste Termine
-* ~~07.03.2022~~ (fällt aus wegen Raumbelegung)
-* 14.03.2022
-* 21.03.2022
-* 28.03.2022
+* 28.03.2022 (findet im Kirchgarten statt)
 * 04.04.2022 (findet in Kapelle statt)
 * 11.04.2022
 * ~~18.04.2022~~ (fällt aus wegen Ostermontag)
