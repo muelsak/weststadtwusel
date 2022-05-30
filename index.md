@@ -26,12 +26,7 @@ Zusammenfassung:
   * Hände waschen vor der Veranstaltung (Sanitäranlagen vor Ort).
 
 ## Nächste Termine
-* 25.04.2022
-* 02.05.2022 (findet in Kapelle statt)
-* ~~09.05.2022~~ (fällt aus wegen privatem Termin)
-* 16.05.2022
-* 23.05.2022
-* 30.05.2022
+* 30.05.2022 (findet im Kirchgarten statt)
 * 06.06.2022 (fällt wahrscheinlich aus wegen Pfingstmontag)
 * 13.06.2022
 * 20.06.2022
