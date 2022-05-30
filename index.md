@@ -1,4 +1,5 @@
 # Heidelberger Westadtwusel
+![Singkreis mit Samuel Kilian an der Gitarre](Gruppenbild.png "Weststadtwusel")
 ## Was ist Weststadtwusel?
 Das Weststadtwusel ist ein angeleiteter Spieletreff für Kinder im Vorschulalter, die zusammen mit ihren Eltern teilnehmen. Es wird unter Anleitung gespielt, gesungen, musiziert, getanzt, geturnt und gewuselt. Der Spieletreff ist kostenlos und wird angeleitet von Samuel Kilian, dessen eigene Tochter auch teilnimmt. Er findet üblicherweise montags 16-17 Uhr im Haus der Christuskirche statt.
 
