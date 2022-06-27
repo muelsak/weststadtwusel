@@ -10,24 +10,14 @@ Das Weststadtwusel ist ein angeleiteter Spieletreff für Kinder im Vorschulalter
 * Im Anschluss an den offiziellen Teil gibt es meistens ein zwangloses get-together mit mitgebrachten Snacks bis spätestens 18 Uhr für alle Interessierten.
 * Kinder müssen zusammen mit einer Betreuungsperson teilnehmen und obliegen vollständig deren Verantwortung.
 * Die Gruppengröße ist auf 10 Kinder beschränkt.
-* Die Anzahl der anwesenden Erwachsenen ist auf 20 beschränkt, sodass auch mal beide Elternteile oder die Großeltern mitkommen können.
-* Momentan gilt für alle anwesenden Personen ab 6 Jahren Maskenpflicht (siehe Hygienekonzept).
+* Das Tragen einer Maske ist freiwillig.
 * Teilnahme ist nur nach vorheriger Anmeldung und erfolgter Bestätigung möglich. Zu jedem Termin muss sich separat angemeldet werden.
 * Träger ist die Christus-Luther-Markus-Gemeinde Heidelberg. Die Veranstaltung hat keine religiösen Inhalte und selbstverständlich ist die Teilnahme von der Religionszugehörigkeit unabhängig.
 
 ## Hygieneschutzkonzept
-Ausführlich: [Hygieneschutzkonzept](https://muelsak.github.io/weststadtwusel/hygieneschutzkonzept).
-
-Zusammenfassung:
-* Teilnahmevoraussetzungen:
-  * Keine Covid-Symptomatik, d.h. keine Atemnot, neu auftretender Husten, Fieber, Geruchs- oder Geschmacksverlust.
-* Regeln vor Ort:
-  * Pflicht zum Tragen einer medizinischen Maske für Personen ab 6 Jahren.
-  * Hände waschen vor der Veranstaltung (Sanitäranlagen vor Ort).
+Es gibt kein Hygieneschutzkonzept mehr.
 
 ## Nächste Termine
-* 13.06.2022 (fällt aus wegen Krankheit)
-* 20.06.2022
 * 27.06.2022
 * 04.07.2022 (findet in Kapelle statt)
 * ~~11.07.2022~~ (fältt aus wegen privatem Termin)
