@@ -18,11 +18,20 @@ Das Weststadtwusel ist ein angeleiteter Spieletreff für Kinder im Vorschulalter
 Es gibt kein Hygieneschutzkonzept mehr.
 
 ## Nächste Termine
-* 27.06.2022
-* 04.07.2022 (findet in Kapelle statt)
-* ~~11.07.2022~~ (fältt aus wegen privatem Termin)
-* 18.07.2022
-* 25.07.2022
+* 19.09.2022
+* 26.09.2022
+* ~~03.10.2022~~ (fällt aus wegen Feiertag)
+* 10.10.2022 (findet in Kapelle statt)
+* 17.10.2022
+* 24.10.2022
+* 31.10.2022
+* 07.11.2022 (findet in Kapelle statt)
+* 14.11.2022
+* 21.11.2022
+* 28.11.2022
+* 05.12.2022 (findet in Kapelle statt)
+* 12.12.2022
+* 19.12.2022
 
 ## Wer leitet das Weststadtwusel?
 Die Gruppe wird angeleitet von mir, Samuel Kilian. Meine eigene Tochter ist drei Jahre alt und ebenfalls ein Wusel. Ich gründete den Spieletreff im Sommer 2021, nachdem ich erfolglos versuchte, einen Platz im Kinderturnen für meine Tochter zu finden. Ich wohne selbst in der Weststadt und bin mit meiner Tochter öfter auf dem Synagogenspielplatz anzutreffen. Ich arbeite als Statistiker an der Uniklinik, bin Hobby-Musiker und habe keine pädagogische Ausbildung absolviert.
