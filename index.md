@@ -21,7 +21,7 @@ Es gibt kein Hygieneschutzkonzept mehr.
 * 19.09.2022
 * 26.09.2022
 * ~~03.10.2022~~ (fällt aus wegen Feiertag)
-* 10.10.2022 (findet in Kapelle statt)
+* ~10.10.2022~ (fällt aus wegen Krankheit)
 * 17.10.2022
 * 24.10.2022
 * 31.10.2022
