@@ -18,7 +18,7 @@ Das Weststadtwusel ist ein angeleiteter Spieletreff für Kinder im Vorschulalter
 Es gibt kein Hygieneschutzkonzept mehr.
 
 ## Nächste Termine
-* 21.11.2022 (fällt aus wegen Krankheit)
+* ~~21.11.2022~~ (fällt aus wegen Krankheit)
 * 28.11.2022
 * 05.12.2022 (findet woanders statt)
 * 12.12.2022
