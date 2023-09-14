@@ -1,7 +1,7 @@
 # Heidelberger Westadtwusel
 ![Singkreis mit Samuel Kilian an der Gitarre](Gruppenbild.png "Weststadtwusel")
 ## Was ist Weststadtwusel?
-Das Weststadtwusel ist ein angeleiteter Spieletreff für Kinder im Vorschulalter, die zusammen mit ihren Eltern teilnehmen. Es wird unter Anleitung gespielt, gesungen, musiziert, getanzt, geturnt und gewuselt. Der Spieletreff ist kostenlos und wird angeleitet von Samuel Kilian, dessen eigene Tochter auch teilnimmt. Er findet üblicherweise montags 16-17 Uhr im Haus der Christuskirche statt.
+Das Weststadtwusel ist ein angeleiteter Spieletreff für Kinder im Alter 3-5, die zusammen mit ihren Eltern teilnehmen. Es wird unter Anleitung gespielt, gesungen, musiziert, getanzt, geturnt und gewuselt. Der Spieletreff ist kostenlos und wird angeleitet von Samuel Kilian, dessen eigene Tochter auch teilnimmt. Er findet üblicherweise montags 16-17 Uhr im Haus der Christuskirche statt.
 
 ## Details
 * Termin: Montags 16-17 Uhr. Es findet *nicht* statt in den BW-Sommerferien. Weiterhin können einzelne Termine ausfallen. Bitte immer die aktuelle Terminliste beachten.
@@ -14,22 +14,17 @@ Das Weststadtwusel ist ein angeleiteter Spieletreff für Kinder im Vorschulalter
 * Teilnahme ist nur nach vorheriger Anmeldung und erfolgter Bestätigung möglich. Zu jedem Termin muss sich separat angemeldet werden.
 * Träger ist die Christus-Luther-Markus-Gemeinde Heidelberg. Die Veranstaltung hat keine religiösen Inhalte und selbstverständlich ist die Teilnahme von der Religionszugehörigkeit unabhängig.
 
-## Hygieneschutzkonzept
-Es gibt kein Hygieneschutzkonzept mehr.
-
 ## Nächste Termine
-* 06.02.2023 (fällt evtl. aus oder findet woanders statt)
-* 13.02.2023 (fällt evtl. aus oder findet woanders statt)
-* 20.02.2023
-* 27.02.2023
-* 06.03.2023 (fällt evtl. aus oder findet woanders statt)
-* 13.03.2023
-* 20.03.2023
-* 27.03.2023
-* 03.04.2023 (fällt evtl. aus oder findet woanders statt)
+* ~~18.09.2023~~ (fällt aus)
+* 25.09.2023
+* ~~02.10.2023~~ (fällt aus)
+* 09.10.2023
+* 16.10.2023
+* 23.10.2023
+* 30.10.2023
 
 ## Wer leitet das Weststadtwusel?
-Die Gruppe wird angeleitet von mir, Samuel Kilian. Meine eigene Tochter ist drei Jahre alt und ebenfalls ein Wusel. Ich gründete den Spieletreff im Sommer 2021, nachdem ich erfolglos versuchte, einen Platz im Kinderturnen für meine Tochter zu finden. Ich wohne selbst in der Weststadt und bin mit meiner Tochter öfter auf dem Synagogenspielplatz anzutreffen. Ich arbeite als Statistiker an der Uniklinik, bin Hobby-Musiker und habe keine pädagogische Ausbildung absolviert.
+Die Gruppe wird angeleitet von mir, Samuel Kilian. Meine eigene Tochter ist drei Jahre alt und ebenfalls ein Wusel. Ich gründete den Spieletreff im Sommer 2021, nachdem ich erfolglos versuchte, einen Platz im Kinderturnen für meine Tochter zu finden. Ich wohne selbst in der Weststadt und bin mit meiner Tochter öfter auf dem Synagogenspielplatz anzutreffen. Ich arbeite als Statistiker an der Uniklinik und habe keine pädagogische Ausbildung absolviert. Außerdem bin ich Liedermacher; mehr Infos über meine Musik gibt es unter [www.samuelkilian.de](https://samuelkilian.de).
 
 ## Anmeldung
 Bei Interesse gerne eine E-Mail an mich unter sam<!-- abc@def -->uel@we<!-- @abc.de -->berkil<!-- @abc.de -->ian.de.
